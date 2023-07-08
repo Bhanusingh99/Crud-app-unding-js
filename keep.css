@@ -1,0 +1,142 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    height: 98vh;
+    width: 95%;
+    border: 5px solid #FFB84C;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+header h1{
+    margin-top: 20px;
+}
+header img{
+    margin-top: 10px;
+}
+#circle{
+    text-align: center;
+    height: 70px;
+    width: 70px;
+    background-color: #FFB84C;
+    border-radius: 50%;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    transform: translate(-90%,-90%);
+}
+#rotate{
+    font-size: 70px;
+    margin-top: -5px;
+    transition: .7s;
+    color: black;
+}
+.deg{
+    rotate: 360deg;
+}
+.model{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    position: absolute;
+    top: -50%;
+    left: 35%;
+    transition: .7s;
+    background-color: #FFB84C;
+    padding: 10px 10px;
+}
+
+.makeItCenter{
+    top: 20%;
+    transition: .7s;
+}
+#title{
+    width: 100%;
+    padding: 10px 10px;
+    color: black;
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    outline: none;
+    border: none;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#textarea{
+    width: 100%;
+    padding: 10px 10px;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    outline: none;
+    border: none;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+button{
+    padding: 10px 12px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #FFB84C;
+    font-size: 22px;
+    cursor: pointer;
+}
+#closeBtn{
+    transition: 1s;
+}
+
+.display div{
+    max-width: 250px;
+    padding: 15px 20px;
+    background-color: #FFB84C;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 30px;
+}
+
+#forbutton{
+    margin-top: 40px;
+    margin-left: 140px;
+    display: flex;
+    gap: 20px;
+
+}
+#forbutton img{
+    cursor: pointer;
+}
+.head{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.bodyll{
+    position: relative;
+    top: 10%;
+    color: black;
+    font-size: 18px;
+}
+ */
